@@ -1,3 +1,3 @@
-function greet() {
+function cheer() {
     console.log('Hello team!');
 }
