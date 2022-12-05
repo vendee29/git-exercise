@@ -1,5 +1,5 @@
 'use strict';
 
-function future(zodiacSign) {
-    console.log(zodiacSign);
+function future() {
+    console.log('龙');
 }
