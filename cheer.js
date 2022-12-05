@@ -1,3 +1,3 @@
-function cheer(teamName) {
-    console.log(`Hello ${teamName}`);
+function cheer(teamName, secondParam) {
+    console.log(`Hello ${teamName}, ${secondParam}`);
 }
