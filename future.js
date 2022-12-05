@@ -1,5 +1,6 @@
 'use strict';
 
-function future() {
+function future(birthMonth, sign) {
     console.log('龙');
+    console.log({birthMonth, sign});
 }
