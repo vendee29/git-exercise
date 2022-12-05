@@ -1,5 +1,6 @@
 'use strict';
 
-function future() {
-    console.log('Taurus')
+function future(birthMonth) {
+    console.log('Taurus');
+    console.log(birthMonth);
 }
