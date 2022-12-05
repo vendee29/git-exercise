@@ -1,5 +1,5 @@
 'use strict'
 
-function count(age) {
-  console.log(`I am ${age} years old.`);
+function count(number) {
+  console.log(`ICounting the countless ${number}`);
 }
