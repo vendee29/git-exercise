@@ -1,7 +1,7 @@
 console.log('Hello World');
 
-function greet(name){
-	console.log(`Greetings for the ${name}.`);
+function greet(name1, name2){
+	console.log(`Greetings for the ${name1} and ${name2}.`);
 };
 
-greet('me')
+greet('me', 'you');
