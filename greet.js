@@ -6,4 +6,3 @@ function greet(name1, name2){
 
 greet('me', 'you');
 greet('you', 'me');
-greet('we', 'they');
